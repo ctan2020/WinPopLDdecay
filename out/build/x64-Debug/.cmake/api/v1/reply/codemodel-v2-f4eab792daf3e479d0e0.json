@@ -1,0 +1,94 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "PopLDdecayGUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "PopLDdecayGUI::@145eef247bfb46b6828c",
+					"jsonFile" : "target-PopLDdecayGUI-Debug-0575b193b61fece2aece.json",
+					"name" : "PopLDdecayGUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "PopLDdecayGUI_autogen::@145eef247bfb46b6828c",
+					"jsonFile" : "target-PopLDdecayGUI_autogen-Debug-f2520f737007e49480d3.json",
+					"name" : "PopLDdecayGUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "PopLDdecayGUI_autogen_timestamp_deps::@145eef247bfb46b6828c",
+					"jsonFile" : "target-PopLDdecayGUI_autogen_timestamp_deps-Debug-fd4f6933f53b60f1d002.json",
+					"name" : "PopLDdecayGUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/19940/PopLDdecayGUI/out/build/x64-Debug",
+		"source" : "C:/Users/19940/PopLDdecayGUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

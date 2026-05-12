@@ -17,7 +17,8 @@ WinPopLDdecay is a Windows-native graphical user interface (GUI) tool for effici
 3. Double-click the *setup.exe installation package, and follow the prompts to select the installation path and other custom information.
 4. Ensure Python 3.16+ is installed for visualization features (optional but recommended).
 
-## Usage
+## Usage 
+User Guide (https://github.com/ctan2020/WinPopLDdecay/tree/main/User-Guide)
 
 ### LD Decay Calculation
 1. Launch `WinPopLDdecay.exe` by double click.
@@ -50,4 +51,3 @@ For questions or feedback, please open an issue or contact [hewm@genomics.cn] an
 ---
 
 *Developed by BGI-Shenzhen*  
-*GitHub: [https://github.com/XXXXXXXXXXXXXXXXXXXXXXXXX/WinPopLDdecay](https://github.com/XXXXXXXXXXXXXXXXXXXXXXXXXX/WinPopLDdecay)*

@@ -1,4 +1,4 @@
-# PopLDdecayGUI 2.3.2
+# PopLDdecayGUI
 
 **WinPopLDdecay: a hardware-adaptive and reproducible reimplementation of PopLDdecay with a graphical interface**
 
@@ -139,7 +139,7 @@ The LD engine implements the exhaustive *all-pairs-within-MaxDist* algorithm of 
 ------------
 - **Please cite:**
 - **Zhao BY et al., WinPopLDdecay: a hardware-adaptive and reproducible reimplementation of PopLDdecay with a graphical interface**
-- ** Zhang C, Dong S-S, Xu J-Y, He W-M, Yang T-L. *PopLDdecay: a fast and effective tool for linkage disequilibrium decay analysis based on variant call format files.* **Bioinformatics**. 2019;35(10):1786–1788. DOI: [10.1093/bioinformatics/bty875](https://doi.org/10.1093/bioinformatics/bty875)
+- ** Zhang C, Dong S-S, Xu J-Y, He W-M, Yang T-L. *PopLDdecay: a fast and effective tool for linkage disequilibrium decay analysis based on variant call format files.** **Bioinformatics**. 2019;35(10):1786–1788. DOI: [10.1093/bioinformatics/bty875](https://doi.org/10.1093/bioinformatics/bty875)
 - Original PopLDdecay: https://github.com/hewm2008/PopLDdecay
 - PopLDdecayGUI 2.3.2: https://github.com/melonlink/PopLDdecayGUI
 

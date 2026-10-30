@@ -138,7 +138,7 @@ The LD engine implements the exhaustive *all-pairs-within-MaxDist* algorithm of 
 ### 6) Citation & Contact
 ------------
 - **Please cite:**
-- **Zhao BY et al., WinPopLDdecay: a hardware-adaptive and reproducible reimplementation of PopLDdecay with a graphical interface**
+- **Zhao BY et al., WinPopLDdecay: a hardware-adaptive and reproducible reimplementation of PopLDdecay with a graphical interface.**
 **GigaScience**. 2026.
 - ** Zhang C, Dong S-S, Xu J-Y, He W-M, Yang T-L. *PopLDdecay: a fast and effective tool for linkage disequilibrium decay analysis based on variant call format files.** **Bioinformatics**. 2019;35(10):1786–1788. DOI: [10.1093/bioinformatics/bty875](https://doi.org/10.1093/bioinformatics/bty875)
 - Original PopLDdecay: https://github.com/hewm2008/PopLDdecay
